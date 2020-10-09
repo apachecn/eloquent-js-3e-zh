@@ -25,6 +25,14 @@ docker run -tid -p <port>:80 apachecn0/eloquent-js-3e-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
+### PYPI
+
+```
+pip install eloquent-js-3e-zh
+eloquent-js-3e-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ## 赞助我
 
 ![](img/qr_alipay.png)
